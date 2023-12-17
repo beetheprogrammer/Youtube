@@ -53,7 +53,7 @@ export const MoreVideosContainer = styled.div`
 	width: 100%;
 	display: flex;
 	flex-direction: column;
-	gap: 0.5rem;
+	gap: 1rem;
 	padding-top: 1.5rem;
 `;
 
